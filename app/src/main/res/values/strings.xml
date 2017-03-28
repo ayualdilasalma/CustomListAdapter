@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MOD-3</string>
+    <string-array name="arrDataJurusan">
+        <item>Teknik Informatika</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Pangan</item>
+        <item>Teknik Lingkungan</item>
+        <item>Teknik Planologi</item>
+    </string-array>
+    <string-array name="arrKota">
+        <item>Bandung</item>
+        <item>Jakarta</item>
+        <item>Surabaya</item>
+        <item>Yogyakarta</item>
+    </string-array>
+    
+    <string-array name="arrKomponen">
+        <item>Button</item>
+        <item>EditText</item>
+        <item>CheckBox</item>
+        <item>Radio Button</item>
+        <item>Spinner</item>
+        <item>Picker</item>
+        <item>Studi Kasus</item>
+        <item>Tugas Ke 2</item>
+    </string-array>
+
+    <string-array name="arrDesc">
+        <item>Berisi teks atau ikon yang dapat mengkomunikasikan aksi yang terjadi ketika...</item>
+        <item>Komponen yang memungkinkan user untuk memberikan inputan teks, dan dapat memiliki..</item>
+        <item>Memungkinkan user untuk memilih satu atau lebih pilihan dari sekumpulan pilihan</item>
+        <item>Memungkinkan user untuk memilih satu pilihan dari sekumpulan pilihan</item>
+        <item>Menyediakan cara untuk memilihi satu nilai dari sebuah himpunan</item>
+        <item>Untuk user dapat memilih waktu atau tanggal dengan menggunakan picker</item>
+        <item>Studi kasus merupakan latihan yang dikerjakan oleh praktikan di ruangan praktikum ini</item>
+        <item>Tugas ini harap dikerjakan oleh praktikan dengan nrp 133040256 atas nama Ayu Aldila Salma</item>
+    </string-array>
+
+    <array name="kompPict">
+        <item>@drawable/batman_icon</item>
+        <item>@drawable/boss_icon</item>
+        <item>@drawable/student_icon</item>
+        <item>@drawable/chef_icon</item>
+        <item>@drawable/farmer_icon</item>
+        <item>@drawable/hacker_icon</item>
+        <item>@drawable/magician_icon</item>
+        <item>@drawable/bell_icon</item>
+    </array>
+</resources>
